@@ -1,0 +1,500 @@
+   57  ls /Volumes
+   58  ls /Volumes/rnd
+   59  /Volumes/rnd/vadim_datasets/datasets/1_finger /Volumes/vadim_datasets/dataset
+   60  ssh vadim@192.168.26.56
+   61  ды -дф
+   62  ls -la
+   63  cd ..
+   64  cd ..
+   65  cd ..
+   66  ls -la
+   67  cd ..
+   68  ls -=la
+   69  ls -la
+   70  cd Work_2
+   71  ls -=la
+   72  ls -la
+   73  cd QA_Course/
+   74  ls -la
+   75  cd group_19
+   76  ls -la
+   77  mkdir train_git
+   78  cd t
+   79  cd train_git/
+   80  ls -la
+   81  ssh-keygen -t rsa -C "VadimKsendzov09"
+   82  git config --global user.name "Vadim Ksendzov"
+   83  git config --global user.email
+   84  git config --global user.name
+   85  git clone git@github.com:VadimKsendzov09/group_19.git
+   86  ls -al
+   87  cd group_19/
+   88  ls -la
+   89  fish
+   90  fish
+   91  /Users/vadimksendzov/Downloads/images
+   92  clear
+   93  fish
+   94  ssh vadim@192.168.26.56
+   95  mkdir postgres
+   96  fish
+   97  fish
+   98  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+   99  fish
+  100  fish
+  101  fish
+  102  fish
+  103  source venv/bin/activate
+  104  export FLASK_APP=main.py
+  105  export FLASK_APP=main_t.py
+  106  flask run --host="127.0.0.1" --port="5039"
+  107  export FLASK_APP=main.py
+  108  flask run --host="127.0.0.1" --port="5039"
+  109  ssh root@116.203.27.46
+  110  ssh root@116.203.27.46
+  111  ssh root@116.203.27.46
+  112  ssh root@116.203.27.46
+  113  ssh root@168.119.182.98
+  114  ssh root@168.119.182.98
+  115  fish
+  116  fish
+  117  /Users/vadimksendzov/Downloads/apache-jmeter-5.3/bin/jmeter ; exit;
+  118  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  119  ssh root@168.119.182.98
+  120  ssh root@168.119.182.98
+  121  ssh root@168.119.182.98
+  122  ssh root@168.119.182.98
+  123  ssh root@168.119.182.98
+  124  ssh root@168.119.182.98
+  125  ssh root@168.119.182.98
+  126  ssh root@168.119.182.98
+  127  ssh root@168.119.182.98
+  128  ssh root@168.119.182.98
+  129  ssh root@168.119.182.98
+  130  ssh root@168.119.182.98
+  131  /Users/vadimksendzov/work/datasets/Segmentation/body/ai_test/src /Users/vadimksendzov/work/datasets/Segmentation/body/ai_test/dst_train_valua/good /Users/vadimksendzov/work/datasets/Segmentation/body/ai_test/src1/img 
+  132  ssh root@168.119.182.98
+  133  ssh root@168.119.182.98
+  134  ssh root@168.119.182.98
+  135  ssh root@168.119.182.98
+  136  ssh root@168.119.182.98
+  137  ssh root@168.119.182.98
+  138  ssh root@168.119.182.98
+  139  ssh root@168.119.182.98
+  140  ssh root@168.119.182.98
+  141  ssh root@168.119.182.98
+  142  ssh root@168.119.182.98
+  143  ssh root@168.119.182.98
+  144  ssh root@168.119.182.98
+  145  ssh root@168.119.182.98
+  146  ssh root@168.119.182.98
+  147  ssh root@168.119.182.98
+  148  ssh root@168.119.182.98
+  149  ssh root@168.119.182.98
+  150  ssh root@168.119.182.98
+  151  fish
+  152  ssh root@168.119.182.98
+  153  ssh root@168.119.182.98
+  154  ssh root@168.119.182.98
+  155  ssh root@168.119.182.98
+  156  ssh root@168.119.182.98
+  157  сдуфк
+  158  clear
+  159  ssh root@168.119.182.98
+  160  ssh root@168.119.182.98
+  161  ssh root@168.119.182.98
+  162  ssh root@168.119.182.98
+  163  ssh root@168.119.182.98
+  164  ssh root@168.119.182.98
+  165  pwd
+  166  ls
+  167  ls -la
+  168  ls
+  169  ls -la
+  170  cd ..
+  171  pwd
+  172  ls =la
+  173  ls -la
+  174  mkdir group_20
+  175  ls -la
+  176  cd group_20
+  177  ls -la
+  178  mkdir test_1
+  179  cd test_1/
+  180  touch thefirst.txt
+  181  ls -la
+  182  vim thefirst.txt 
+  183  vim thefirst.txt 
+  184  vim thefirst.txt 
+  185  vim thefirst.txt 
+  186  vim thefirst.txt 
+  187  nano thefirst.txt 
+  188  nano thefirst.txt 
+  189  nano thefirst.txt 
+  190  nano thefirst.txt 
+  191  nano thefirst.txt 
+  192  nano thefirst.txt 
+  193  nano thefirst.txt 
+  194  touch 2.txt 3.json 4.xml
+  195  ls -la
+  196  mkdir d_1 d_2 d_3
+  197  ls -la
+  198  mv thefirst.txt d_1/thefirst.txt
+  199  ls -la
+  200  cd d_1
+  201  ls -la
+  202  vim thefirst.txt 
+  203  cd ..
+  204  ls -oa
+  205  ls -la
+  206  ls -oa
+  207  mv thefirst.txt d_1 d_2
+  208  mv d_1/thefirst.txt d_2
+  209  mv d_1/thefirst.txt d_2/thefirst.txt
+  210  mv d_1/thefirst.txt
+  211  mv --help
+  212  mv help
+  213  help
+  214  ls -l`
+  215  ls -la
+  216  ls -la
+  217  ls -la
+  218  cd d_2
+  219  ls -la
+  220  cd d_1
+  221  ls -la
+  222  cd ..
+  223  pwd 
+  224  mv -r d_1 test_1
+  225  ls -la
+  226  mv d_1 test_1
+  227  ls -la
+  228  pwd
+  229  cd  ..
+  230  ls -la
+  231  mkdir d_1
+  232  cd dd_1
+  233  cd d_1
+  234  touch thefirst.txt
+  235  ls -la
+  236  cd ..
+  237  ls -la
+  238  pwd
+  239  mv /Users/vadimksendzov/Work_2/QA_Course/group_20/test_1/d_1/thefirst.txt /Users/vadimksendzov/Work_2/QA_Course/group_20/test_1/d_3/thefirst.txt
+  240  ls -la
+  241  cd d_1
+  242  ls -la
+  243  cd ..
+  244  cd d_3
+  245  ls -la
+  246  mv thefirst.txt /Users/vadimksendzov/Work_2/QA_Course/group_20/test_1/d_1/thefirst.txt
+  247  ls -la
+  248  cd ..
+  249  ls -la
+  250  cd d_1
+  251  ls -la
+  252  pwd
+  253  cd ..
+  254  cd ../..
+  255  clear
+  256  fish
+  257  fish
+  258  ssh root@162.55.220.72
+  259  ssh root@159.69.151.133
+  260  ssh root@159.69.151.133
+  261  fish
+  262  cd /Users/vadimksendzov/Work_2/QA_Course/train_server_2 
+  263  ls -la
+  264  fish
+  265  fish
+  266  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  267  /Users/vadimksendzov/Downloads/apache-jmeter-5-2.3/bin/jmeter ; exit;
+  268  /Users/vadimksendzov/Downloads/apache-jmeter-5-2.3/bin/jmeter ; exit;
+  269  /Users/vadimksendzov/Downloads/apache-jmeter-5.3/bin/jmeter ; exit;
+  270  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  271  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  272  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  273  /Users/vadimksendzov/Downloads/apache-jmeter-5.3/bin/jmeter ; exit;
+  274  /Users/vadimksendzov/Downloads/apache-jmeter-5-2.3/bin/jmeter ; exit;
+  275  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  276  cd ..
+  277  cd ../..
+  278  ls -la
+  279  cd group_18
+  280  ls -la
+  281  fish
+  282  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  283  fish
+  284  > the_first
+  285  ls -la
+  286  fish
+  287  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  288  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  289  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  290  curl -p http://162.55.220.72:5005/object_info_3?'name=Vadim&age=32&salary=1000'
+  291  ls -la
+  292  cd ..
+  293  cd ..
+  294  fish
+  295  fish
+  296  curl http://162.55.220.72:5005/get_method?name=vadim&age=32
+  297  curl http://162.55.220.72:5005/get_method
+  298  curl http://162.55.220.72:5005/first
+  299  curl http://162.55.220.72:5005/get_method?name=vadim&age=32
+  300  fish
+  301  http://162.55.220.72:5005/object_info_1?name=Vadim&age=32&weight=85
+  302  curl http://162.55.220.72:5005/object_info_1?name=Vadim&age=32&weight=85
+  303  curl "http://162.55.220.72:5005/object_info_1?name=Vadim&age=32&weight=85"
+  304  curl "http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000"
+  305  GET "http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000"
+  306  fish
+  307  curl -p http://162.55.220.72:5005/object_info_3?'name=Vadim&age=32&salary=1000'
+  308  curl http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000
+  309  curl -p http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000
+  310  curl 'http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000'
+  311  fish
+  312  ls -la
+  313  cd work_2/
+  314  ls -la
+  315  cd QA_Course/
+  316  ls -la
+  317  cd group_22
+  318  ls -la
+  319  cd git_repo/
+  320  ls -la
+  321  cd group_22/
+  322  ls -la
+  323  git status
+  324  git push
+  325  fish
+  326  git remote set-url origin https://<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>@github.com/<VadimKsendzov09>/<group_22>.git
+  327  fish
+  328  ls -la
+  329  fish 
+  330  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  331  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  332  fish
+  333  ls -la
+  334  cd ..
+  335  cd Python_course/
+  336  git clone git@github.com:VadimKsendzov09/python_course.git
+  337  open ./
+  338  fish
+  339  свв юю
+  340  cd ..
+  341  ls -la
+  342  cd group_22
+  343  fish
+  344  fish
+  345  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  346  fish
+  347  cd /Users/vadimksendzov/Work_2/QA_Course
+  348  ls -la
+  349  cd group_23
+  350  ls -la
+  351  cd test_1/
+  352  ls -la
+  353  > 2.txt
+  354  ls -la
+  355  vim 1.txt 
+  356  open ./
+  357  vim 1.txt
+  358  start .
+  359  touch 3.txt 4.json 5.xml
+  360  ls -la
+  361  mkdir dir_1 dir_2 dir_3
+  362  ls -la
+  363  mkdir {00..10}
+  364  ls -la
+  365  ls -la
+  366  mv 2.txt 2/2.txt
+  367  ls -la
+  368  ls -la
+  369  cd 2
+  370  ls -la
+  371  cd ..
+  372  cd ..
+  373  pwd
+  374  mv /Users/vadimksendzov/Work_2/QA_Course/group_23/test_1/1.txt /Users/vadimksendzov/Work_2/QA_Course/group_23/test_1/2/1.txt
+  375  ls -la
+  376  cd test_1/
+  377  ls -la
+  378  cd 2
+  379  ls -la
+  380  cd ..
+  381  mv ./test_1/3.txt ./test_1/2/3.txt
+  382  mv ../test_1/3.txt ../test_1/2/3.txt
+  383  ls -la
+  384  cd 2
+  385  ls -la
+  386  cd ..
+  387  cd ..
+  388  mv ./test_1/4.json ./test_1/2/4.json
+  389  cd test_1/
+  390  ls -ka
+  391  ks 0ka
+  392  ls -la
+  393  cd 2
+  394  ls -la
+  395  cd ..
+  396  cd ..
+  397  ls -la
+  398  ./test_1/5.xml ./test_1/2/5.xml
+  399  ../test_1/5.xml ../test_1/2/5.xml
+  400  mv ./test_1/5.xml ./test_1/2/5.xml
+  401  cd test_1/
+  402  ls -la
+  403  cd 2
+  404  ls -la
+  405  cd ..
+  406  mv 2 dir_1
+  407  ls -la
+  408  cd dir_1
+  409  ls -la
+  410  cd 2
+  411  ls -la
+  412  cd ..
+  413  cd ..
+  414  mv dir_1 dir_2
+  415  ls -la
+  416  cd dir_2
+  417  ls -la
+  418  mv -r dir_1 dir_2
+  419  ls -la
+  420  ls -la
+  421  cd ..
+  422  cd ..
+  423  ls -la
+  424  mkdir Test_2
+  425  ls -la
+  426  cd test_2
+  427  ls -la
+  428  pwd
+  429  cd ..
+  430  ls -la
+  431  ls -la
+  432  cd test_2
+  433  > 22.json
+  434  cd ..
+  435  ls -la
+  436  mkdir test_2
+  437  ls -la
+  438  rm Test_2
+  439  rm -r Test_2
+  440  ls -la
+  441  mkdir rrrr
+  442  ls -la
+  443  rm rrrr
+  444  rm -r rrrr
+  445  ls -la
+  446  ls -la
+  447  cd test_1/
+  448  ls -,a
+  449  ls -la
+  450  ls -la
+  451  cd dir_2
+  452  ls -la
+  453  mkdir src
+  454  ls -la
+  455  cd dir_1/
+  456  ls -la
+  457  cd 2
+  458  ls -la
+  459  cd ..
+  460  cd ..
+  461  ls -la
+  462  clear
+  463  ls -la
+  464  mv ./dir_1/2/{1.txt,2.txt} ./src/
+  465  ls -la
+  466  cd scr
+  467  cd src
+  468  ls -la
+  469  mv -v ./dir_1/2/* ./src/
+  470  cd dir_1
+  471  ls -la
+  472  cd ..
+  473  cd dir_1/
+  474  ls -la
+  475  cd 2
+  476  ls -la
+  477  cd ..
+  478  cd ..
+  479  mv -v ./dir_1/2/ ./src/
+  480  ls -la
+  481  cd dir_1/
+  482  ls -la
+  483  cd ..
+  484  cd src/
+  485  ls -la
+  486  cd 2
+  487  ls -la
+  488  curl http://162.55.220.72:5005/terminal-hw-request
+  489  curl http://162.55.220.72:5005/get_method?name=Anastasiya&age=33
+  490  curl http://162.55.220.72:5005/get_method?name=Anastasiya&age="33"
+  491  curl http://162.55.220.72:5005/get_method?name=Anastasiya&age=33
+  492  http://127.0.0.1:5007/get_method?name=Anastasiya&age=33
+  493  http://127.0.0.1:5007/get_method?name=Anastasiya&age=33
+  494  curl http://127.0.0.1:5007/get_method?name=Anastasiya&age=33
+  495  curl http://127.0.0.1:5007/get_method?name=Anastasiya&age=33
+  496  curl  http://127.0.0.1:5007/get_method?
+  497  fish
+  498  fish
+  499  /Users/vadimksendzov/Work_2/apache-jmeter-4.0/bin/jmeter ; exit;
+  500  ls -la
+  501  cd work_1
+  502  cd Work_2
+  503  ls -a
+  504  cd QA_Course/
+  505  ls -la
+  506  cd group_23
+  507  ls -la
+  508  cd test_1/
+  509  ls -la
+  510  > 4.json
+  511  ls -la
+  512  find 4.json
+  513  cd ..
+  514  find 4.json
+  515  find ./4.json
+  516  find ./test_1/4.json
+  517  find -name 4.json
+  518  find. -name 4.json
+  519  find . -name 4.json
+  520  ls -ola
+  521  ls -la
+  522  mkdir -p tt
+  523  ls -la
+  524  cd tt
+  525  cd ..
+  526  mkdir --help
+  527  mkdir -help
+  528  mkdir rrr/eee/www
+  529  mkdir -p rrr/eee/www
+  530  ls -la
+  531  cd rrr
+  532  ls -la
+  533  cd ..
+  534  > 1.txt > 2.txt > 3.txt > 4.json > 5.json
+  535  ls -la
+  536  cd ..
+  537  ls -la
+  538  dc group_22
+  539  ls -la
+  540  cd group_22
+  541  ls -la
+  542  cd hw
+  543  ls -la
+  544  mkdir Arsmia
+  545  ls -laa
+  546  cd Arsmia/
+  547  ls -la
+  548  git clone git@github.com:Arsmia/Python_HW.git
+  549  ls -la
+  550  cd Python_HW/
+  551  ls -la
+  552  open ./
+  553  GET http://162.55.220.72:5005/terminal-hw-request
+  554  fish
+  555  history
+  556  history > h_text.txt
